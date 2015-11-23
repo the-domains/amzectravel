@@ -1,0 +1,28 @@
+name: AmZecTravel
+favicon: null
+layout_spectrum: 0.43438365240581334
+typography_spectrum: 0.24065038934350014
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1732962627429515
+  lightness: 0.9028461796697229
+  saturation: 0.5389106897637248
+  rhythmicContrast: 0.7646176649723202
+purpose: []
