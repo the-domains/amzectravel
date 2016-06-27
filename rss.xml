@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AmZecTravel]]></title>
+        <description><![CDATA[AmZecTravel]]></description>
+        <link>https://thegrid.ai/amzectravel/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 23:13:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amzectravel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Services]]></title>
+            <description><![CDATA[<article><h1>Services</h1><p>Here are quite a few of the Islands you can visit, and the general nationality of each island.</p><img src="http://nebula.wsimg.com/dd376768d718aeb1aca513d669e71195?AccessKeyId=531592D248B589D87A56&disposition=0&alloworigin=1"></article>]]></description>
+            <link>http://www.amzectravel.com/services.html</link>
+            <guid isPermaLink="false">80206ca1-62fb-4c0e-af52-1df740b9eb67</guid>
+            <pubDate>Mon, 27 Jun 2016 23:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Have you dreamed of visiting paradise? Come away with us to the Caribbean -- the perfect location that offers uninterrupted relaxation on white-sand beaches, unbeatable scenery, authentic Caribbean cuisine, and rich, inviting cultures.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/69cb2f312909d7c9fed8337f6864825b/noop?input=http%3A%2F%2Fnebula.wsimg.com%2F02e3c8af3320a811e530e454aabfedd1%3FAccessKeyId%3D531592D248B589D87A56%26disposition%3D0%26alloworigin%3D1"></article>]]></description>
+            <link>http://www.amzectravel.com/about.html</link>
+            <guid isPermaLink="false">eaffcdf5-d126-4968-b41f-4b0481e8d37a</guid>
+            <pubDate>Mon, 27 Jun 2016 23:11:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
