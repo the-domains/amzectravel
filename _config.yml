@@ -1,19 +1,4 @@
-name: AmZecTravel
-favicon: null
-layout_spectrum: 0.43438365240581334
 typography_spectrum: 0.24065038934350014
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,22 @@ color:
   lightness: 0.9028461796697229
   saturation: 0.5389106897637248
   rhythmicContrast: 0.7646176649723202
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.43438365240581334
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc2360de-b486-4c9d-b2e6-3a52f872a712.jpg
+name: AmZecTravel
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca068621-cd8a-4330-9156-0f7f86e47f9a.jpg
 purpose: []
